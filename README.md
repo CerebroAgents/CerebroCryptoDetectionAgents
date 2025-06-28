@@ -7,7 +7,7 @@
 
 A cutting-edge crypto detection platform that uses AI agents to monitor and detect crypto runners on DEXScreener and Pump.fun. CEREBRO provides real-time analysis and pattern recognition to identify suspicious trading activity and potential opportunities.
 
-## 🚀 Features
+##  Features
 
 - **Real-time Crypto Monitoring**: Live integration with DEXScreener and Pump.fun APIs
 - **AI Detection Agents**: 6 specialized agents for different crypto monitoring tasks
@@ -16,7 +16,7 @@ A cutting-edge crypto detection platform that uses AI agents to monitor and dete
 - **Phantom Wallet Integration**: Seamless Solana blockchain transactions
 - **Interactive Dashboards**: Unique monitoring interfaces for each agent type
 
-## 🤖 Detection Agents
+##  Detection Agents
 
 ### Nexus - DEXScreener Alpha Scanner
 - **Price**: 1.2 SOL
@@ -48,7 +48,7 @@ A cutting-edge crypto detection platform that uses AI agents to monitor and dete
 - **Focus**: Lightning-fast entry execution and launch sniping
 - **Swarm Size**: 10 agents
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React 18** with TypeScript
@@ -74,7 +74,7 @@ A cutting-edge crypto detection platform that uses AI agents to monitor and dete
 - **Pump.fun WebSocket** for live launch monitoring
 - **Solana RPC** for blockchain interactions
 
-## 📦 Installation
+##  Installation
 
 1. **Clone the repository**
 ```bash
@@ -102,7 +102,7 @@ npm run dev
 
 The application will be available at `http://localhost:5000`
 
-## 🔧 Configuration
+##  Configuration
 
 ### Required Environment Variables
 
@@ -115,7 +115,7 @@ The application will be available at `http://localhost:5000`
 - `OPENAI_API_KEY`: For AI-powered analysis features
 - `SENDGRID_API_KEY`: For email notifications
 
-## 🏗️ Architecture
+##  Architecture
 
 ### Project Structure
 ```
@@ -143,7 +143,7 @@ cerebro-crypto-detection/
 - **Responsive Design**: Mobile-optimized interface with dark theme
 - **Scalable Storage**: Abstract storage interface supporting in-memory and PostgreSQL
 
-## 💰 CEREBRO Token Staking
+##  CEREBRO Token Staking
 
 ### Staking Benefits
 - **70% Revenue Share**: Earn from all agent deployment fees
@@ -156,7 +156,7 @@ cerebro-crypto-detection/
 ELpPYG5zn6RSt9pJLnxPoVCkNQYx21oJ4imemoH67Jfc
 ```
 
-## 🔗 API Integration
+##  API Integration
 
 ### DexScreener Integration
 ```typescript
@@ -177,7 +177,7 @@ ws.onmessage = (event) => {
 };
 ```
 
-## 🚦 Development
+##  Development
 
 ### Available Scripts
 
@@ -193,7 +193,7 @@ ws.onmessage = (event) => {
 - **Prettier**: Consistent code formatting
 - **Husky**: Pre-commit hooks for quality
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -209,23 +209,23 @@ ws.onmessage = (event) => {
 - Ensure mobile responsiveness
 - Test with real crypto data
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🔗 Links
+##  Links
 
 - **Website**: [CEREBRO Platform](https://cerebro-crypto-detection.replit.app)
 - **Twitter**: [@Gammapowerai](https://x.com/Gammapowerai)
 - **Support**: [Contact Form](https://cerebro-crypto-detection.replit.app/support)
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 CEREBRO is a crypto monitoring and analysis tool. All trading decisions should be made at your own risk. The platform provides information and analysis but does not constitute financial advice. Always do your own research before making investment decisions.
 
-## 📊 Roadmap
+##  Roadmap
 
-- [ ] Additional exchange integrations (Binance, Coinbase)
+- [ ] Additional exchange integrations 
 - [ ] Advanced AI pattern recognition
 - [ ] Mobile application
 - [ ] Advanced analytics dashboard
