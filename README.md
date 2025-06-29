@@ -151,10 +151,6 @@ cerebro-crypto-detection/
 - **Monthly Distributions**: Automatic reward distribution
 - **Governance Rights**: Participate in platform decisions
 
-### Staking Pool Address
-```
-ELpPYG5zn6RSt9pJLnxPoVCkNQYx21oJ4imemoH67Jfc
-```
 
 ##  API Integration
 
@@ -215,8 +211,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ##  Links
 
-- **Website**: [CEREBRO Platform](https://cerebro-crypto-detection.replit.app)
-- **Twitter**: [@Gammapowerai](https://x.com/Gammapowerai)
+- **Website**: [CEREBRO Platform](https://cerebroai.pro)
+- **Twitter**: [@CerebroAgents](https://x.com/CerebroAgents)
 - **Support**: [Contact Form](https://cerebro-crypto-detection.replit.app/support)
 
 ##  Disclaimer
